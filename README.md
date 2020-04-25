@@ -6,7 +6,7 @@ YouTube Channel : https://goo.gl/afMM5h <br>
 Facebook Page -: https://www.facebook.com/lnwtutorial /<br>
 Web   -: www.lnwtutorials.com <br>
 email -: lnwtutorials@gmail.com  <br>
-Facebook -: https://www.facebook.com/lnwtutorials /<br> 
+Telegram -: https://t.me/lnwtutorials
 </strong>
 
 # Full Red Hat Linux Server Topics, Tutorials and Study Matarial
@@ -16,24 +16,34 @@ Facebook -: https://www.facebook.com/lnwtutorials /<br>
 	* Linux release &  vendors <br>
 	* Fedora Project <br>
 	* Red Hat Enterprise Linux (RHEL)<br>
- Remarks-:
+ Remarks-: P1_1 => 
+<a href="https://www.youtube.com/watch?v=Zbg-pWLaTP8&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=1">P1_1A</a>,
+<a href="https://www.youtube.com/watch?v=IhUahWJGGss&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=2">P1_1B</a>
 <br>==> B. RHEL instllation <br>
 	* Installation prerequisites <br>
 	* Perform Standard installation <br>
 	* Linux File system Structure. <br>
-Remark-: <br>
+Remark-: P1_2 => <a href="https://www.youtube.com/watch?v=S-GsSRvLoZ4&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=3">P1_2A</a>,
+<a href="https://www.youtube.com/watch?v=gNORhfimcos&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=4">P1_2B</a>
 <br>==> C. Basic Command <br>
 	* What is terminal & its types <br>
 	* Linux shell <br>
 	* Managing files from command line <br>
 	* Getting help <br>
-Remark-: <br>
+ Remark-: P1_3 =>
+<a href="https://www.youtube.com/watch?v=ped7XHFTLMI&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=5">P1_3A</a>,
+<a href="https://www.youtube.com/watch?v=CdHibQex29k&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=6">P1_3B</a>,
+<a href="https://www.youtube.com/watch?v=s_-pqsQSp0o&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=7">P1_3C</a>,
+<a href="https://www.youtube.com/watch?v=rm0_3UT7j1g&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=8">P1_3D</a>
 <br>==> D. Managing Local Users & groups<br>
 	* Managing Local Users & groups with CLI<br>
 	* Managing Local Users & groups with GUI <br>
 	* Creating users & group by Script <br>
 	* Managing Password Policy <br>
-Remark-:<br>
+Remark-: P1_4 =>
+<a href="https://www.youtube.com/watch?v=58ZWSjLV4M4&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=9">P1_4A</a>,
+<a href="https://www.youtube.com/watch?v=26O-FM8GpM0&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=10">P1_4B</a>,
+<a href="https://www.youtube.com/watch?v=Qvf2b74SooU&list=PL7E3sV5_3LF8fdDZN-nJR00yIJmVB1EJS&index=11">P1_4C</a>
 <br>==> E. Linux File System Permission<br>
 	* Basic Files system permission <br>
 	* Determine default permission using UMASK<br>
